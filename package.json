@@ -1,0 +1,23 @@
+{
+  "name": "Mongo_Relationships",
+  "version": "1.0.0",
+  "description": "Practicing with Mongo Relationship types",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jon-D-Smith/Mongo_Relationships.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jon-D-Smith/Mongo_Relationships/issues"
+  },
+  "homepage": "https://github.com/Jon-D-Smith/Mongo_Relationships#readme",
+  "dependencies": {
+    "mongoose": "^5.12.4"
+  }
+}
